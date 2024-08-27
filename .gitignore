@@ -1,0 +1,5 @@
+.idea
+venv
+db.sqlite3
+render.mp4
+__pycache__
